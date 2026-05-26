@@ -2,14 +2,12 @@
   "name": "team-task-manager",
   "version": "1.0.0",
   "private": true,
-
   "dependencies": {
     "dotenv": "^17.4.2",
+    "express": "^5.2.1",
     "mongoose": "^9.6.2"
   },
-
   "scripts": {
     "start": "node backend/server.js"
-    
   }
 }
